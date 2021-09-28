@@ -1,4 +1,4 @@
-In the case you no longer have SSH access to the existing server (i.e. you lost your private key).
+# In the case you no longer have SSH access to the existing server (i.e. you lost your private key).
 
 1. Stop the running EC2 instance
 2. Detach volume (let's call it volume A)
